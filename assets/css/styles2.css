@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+body{
+    background-color: rgb(44, 44, 44) !important;
+}
+
+#login{
+    color: white;
+}
+
+#botonf{
+    border-radius: 20px;
+    height: 45px;
+    background-color: rgb(22, 22, 176);
+    border-style: none;
+}
+
+#botonf:hover{
+    border-radius: 20px;
+    height: 45px;
+    background-color: rgb(14, 14, 121);
+    border-style: none;
+}
+
+#botona{
+    border-radius: 20px;
+    height: 45px;
+    background-color: rgb(74, 74, 74);
+    border-style: none;
+}
+
+#botona:hover{
+    border-radius: 20px;
+    height: 45px;
+    background-color: rgb(56, 56, 56);
+    border-style: none;
+}
+
+#botong{
+    border-radius: 20px;
+    height: 45px;
+    background-color: rgb(255, 255, 255);
+    border-style: none;
+    color: rgb(83, 83, 83);
+}
+
+#botong:hover{
+    border-radius: 20px;
+    height: 45px;
+    background-color: rgb(189, 189, 189);
+    border-style: none;
+    color: rgb(255, 255, 255);
+}
+
+#linel{
+    margin-left: 40%;
+    width: 300px;
+}
+
+#liner{
+    margin-left: -40%;
+    width: 300px;
+}
+
+#texto{
+    text-align: left !important;
+}
+
+#texto2{
+    text-align: right !important;
+    margin-top: -5%;
+}
+
+#butoni{
+    background-color: rgb(68, 189, 102);
+    color: black;
+    border-color: rgba(0, 0, 0, 0);
+    border-radius: 45px;
+    width: 120px;
+    font-size: 20px;
+}
+
+#butoni:hover{
+    background-color: rgb(80, 217, 119);
+    color: rgb(255, 255, 255);
+    border-color: rgba(255, 222, 173, 0);
+    border-radius: 45px;
+    width: 120px;
+    font-size: 20px;
+    transform: scale(1.09);
+}
+
+#botons{
+    border-radius: 20px;
+    height: 45px;
+    background-color: rgb(80, 217, 119);
+    border-style: none;
+    color: black;
+    width: 200px;
+}
+
+#botons:hover{
+    border-radius: 20px;
+    height: 45px;
+    background-color: rgb(80, 217, 119);
+    border-style: none;
+    color: rgb(255, 255, 255);
+    transform: scale(1.02);
+}
+
+#texto3{
+    text-align: center !important;
+    margin-left: 18%;
+}
