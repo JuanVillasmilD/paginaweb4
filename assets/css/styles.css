@@ -9,7 +9,7 @@
 
 body{
     background-color: rgb(44, 44, 44) !important;
-    background-image: url(/assets/img/header.png);
+    background-image: url(../img/header.png) !important;
     background-repeat: no-repeat;
     background-size: 100%;
     background-position-x: 100px;
